@@ -205,7 +205,11 @@ return `
 │❖➛${prefix}play3 (Música q c qr)
 └──────────────
 │「 LOGOS/CRIAR (TXT) 」
-│
+│ 
+│❖➛${prefix}neondevil (txt)
+│❖➛${prefix}show (txt)
+│❖➛${prefix}bracelet (txt)
+│❖➛${prefix}amongus (txt)
 │❖➛${prefix}placa (txt)
 │❖➛${prefix}copo (txt)
 │❖➛${prefix}papel (txt)
