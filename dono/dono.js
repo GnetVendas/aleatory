@@ -6,8 +6,7 @@ const dono = (prefix) => {
 ║╠ ${prefix}serpremium
 ║╠ ${prefix}delpremium @(marca)
 ║╠ ${prefix}addpremium @(marca)
-║╠ ${prefix}off OFFLINE-DORMINDO
-║╠ ${prefix}addlevel @(pessoa) (quantidade)
+║╠ ${prefix}addlevel @(marca) (quantidade)
 ║╠ ${prefix}clonar [@] (rouba foto de perfil)
 ║╠ ${prefix}setppbot (img, = foto do BT)
 ║╠ ${prefix}setnomebot (nome do bot q c qr)
@@ -22,4 +21,5 @@ const dono = (prefix) => {
 `
 }
 exports.dono = dono
+
 

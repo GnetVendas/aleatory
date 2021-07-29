@@ -1,9 +1,8 @@
 {
 	"prefix": "!",
-	"ownerNumber": "SEU NUMERO JUNTO",
-	"NumberOwner": "SEU NUMERO SEPARADO", 
+	"ownerNumber": "SEU-NUMERO-JUNTO-AQUI",
+	"NumberOwner": "SEU-NUMERO-SEPARADO", 
 	"ZeksKey": "key do site zeks.xyz/register",
- "printkey": "Key Do Site apiflash.com/",
 	"instagram": "OFF",
 	"ytb": "OFF",
 	"NamaOwner": "SEU NOME",
@@ -11,6 +10,7 @@
 	"memberlimit": "1",
 	"limitawal": "9999"
 }
+
 
 
 

@@ -35,7 +35,7 @@ return `
 │♢➛${prefix}play  (oq qr)
 │♢➛${prefix}gimage 
 │♢➛${prefix}rename 
-│♢➛${prefix}wallpaper
+│♢➛${prefix}wallsearch (nome)
 │♢➛${prefix}meme 
 │♢➛${prefix}frases
 │♢➛${prefix}semoji exemplo: 😉
@@ -171,18 +171,6 @@ return `
 │「 ATTPS/TTPS/TTMS 」
 │
 │❖➛${prefix}attp
-│❖➛${prefix}attp1
-│❖➛${prefix}attp2
-│❖➛${prefix}attp3
-│❖➛${prefix}attp4
-│❖➛${prefix}attp5
-│❖➛${prefix}attp6
-│❖➛${prefix}ttp
-│❖➛${prefix}ttp2
-│❖➛${prefix}ttp3
-│❖➛${prefix}ttp4
-│❖➛${prefix}ttp5
-│❖➛${prefix}ttp6  
 │❖➛${prefix}ttm 
 │❖➛${prefix}ttm2 
 │❖➛${prefix}ttm3 
@@ -192,6 +180,7 @@ return `
 └──────────────
 │「 PESQUISAS/BAIXAR 」
 │
+│❖➛${prefix}mediafire (link)
 │❖➛${prefix}spotifysrc (nome msc)
 │❖➛${prefix}spotify (url do spotifysrc)
 │❖➛${prefix}facemp4 (url do video)
