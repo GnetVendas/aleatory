@@ -35,7 +35,7 @@ return `
 │♢➛${prefix}play  (oq qr)
 │♢➛${prefix}gimage 
 │♢➛${prefix}rename 
-│♢➛${prefix}wallsearch (nome)
+│♢➛${prefix}wallpaper (nome)
 │♢➛${prefix}meme 
 │♢➛${prefix}frases
 │♢➛${prefix}semoji exemplo: 😉
@@ -46,17 +46,14 @@ return `
 │♧➛${prefix}triggered (mrc-img)
 │♧➛${prefix}paisagem (mrc-img)
 │♧➛${prefix}qbcabeça (mrc-img) 
-│♧➛${prefix}wallimg (mrc-img)
 │♧➛${prefix}vidroqb (mrc-img)
 │♧➛${prefix}deletef (mrc-img)
 │♧➛${prefix}petmak (mrc-img)
-│♧➛${prefix}armast (mrc-img)
 │♧➛${prefix}zombie (mrc-img)
 │♧➛${prefix}arteft (mrc-img) 
 │♧➛${prefix}wanted (mrc-img)
 │♧➛${prefix}hitler (mrc-img)
 │♧➛${prefix}firef (mrc-img)
-│♧➛${prefix}2arma (mrc-img)
 │♧➛${prefix}preso (mrc-img)
 │♧➛${prefix}trash (mrc-img)
 │♧➛${prefix}cubof (mrc-img)
@@ -65,19 +62,15 @@ return `
 │♧➛${prefix}rip (mrc-img)
 │ 
 └──────────────
-│    「 CONSULTAS 」
+│「 EFEITOS GIF (TXT) 」
 │ 
-│♡➛${prefix}conscep cep
+│✅➛${prefix}colorfull (txt)
+│✅➛${prefix}glowing (txt)
+│✅➛${prefix}retro (txt)
+│✅➛${prefix}poly (txt)
+│✅➛${prefix}bold (txt)
+│✅➛${prefix}army (txt)
 │ 
-└──────────────
-│   「 GIF (TXT) 」
-│
-│♧➛${prefix}colorful (txt)
-│♧➛${prefix}glowing (txt)
-│♧➛${prefix}bold (txt)
-│♧➛${prefix}cold (txt)
-│♧➛${prefix}army (txt)
-│
 └──────────────
 │ 「 CRIAR QR/ETC. 」
 │
@@ -104,7 +97,6 @@ return `
 │♡➛${prefix}rankgostosas
 │♡➛${prefix}rankcornos
 │♡➛${prefix}ranknazista
-│♡➛${prefix}gerarnick 
 │ 
 └──────────────
 │ 「 ALTERADOR DE AUDIO 」
@@ -136,24 +128,19 @@ return `
 │♡➛${prefix}raposa
 │♡➛${prefix}koala
 │♡➛${prefix}ganso
-│♡➛${prefix}gato
 │ 
 └──────────────
 │ 「 ANIMES FOTOS/GIF 」
 │ 
 │♡➛${prefix}wallpaperanime
 │♡➛${prefix}nekonime
+│♡➛${prefix}beijo
 │♡➛${prefix}shinobu
 │♡➛${prefix}waifu
 │♡➛${prefix}megumin
 │♡➛${prefix}uwu
-│♡➛${prefix}ngif
-│♡➛${prefix}bonecas
-│♡➛${prefix}ngif
-│♡➛${prefix}carinho
 │♡➛${prefix}beijo
 │♡➛${prefix}loli
-│♡➛${prefix}cocegas
 │ 
 └──────────────
 │ 「 INFORMAÇÕES/PESQUISA 」
@@ -195,6 +182,13 @@ return `
 └──────────────
 │「 LOGOS/CRIAR (TXT) 」
 │ 
+│❖➛${prefix}narutobanner (txt)
+│❖➛${prefix}shadow (txt)
+│❖➛${prefix}folha (txt)
+│❖➛${prefix}folha2 (txt)
+│❖➛${prefix}folha3 (txt)
+│❖➛${prefix}folha4 (txt)
+│❖➛${prefix}folha5,(txt)
 │❖➛${prefix}neondevil (txt)
 │❖➛${prefix}show (txt)
 │❖➛${prefix}bracelet (txt)
@@ -209,23 +203,16 @@ return `
 │❖➛${prefix}harryp (txt)
 │❖➛${prefix}glitch (txt)
 │❖➛${prefix}wooden (txt)
-│❖➛${prefix}neonblue (txt)
-│❖➛${prefix}neongreen (txt)
 │❖➛${prefix}romantic (txt)
 │❖➛${prefix}Gold (txt)
 │❖➛${prefix}neon2 (txt)
 │❖➛${prefix}neon (txt)
 │❖➛${prefix}comporn (txt|txt)
-│❖➛${prefix}nulis (txt)
 │❖➛${prefix}comentarioL (txt|txt)
 │❖➛${prefix}cslogo (txt)
 │❖➛${prefix}8bit (txt)
 │❖➛${prefix}cemiterio (txt)
-│❖➛${prefix}gradient (txt)
 │❖➛${prefix}googlelogo (txt)
-│❖➛${prefix}rainbow (txt)
-│❖➛${prefix}neonye (txt)
-│❖➛${prefix}shine (txt)
 │❖➛${prefix}grass (txt)
 │❖➛${prefix}flower (txt)
 │❖➛${prefix}batle (txt)
@@ -248,7 +235,6 @@ return `
 │❖➛${prefix}natal (txt)
 │❖➛${prefix}style (txt)
 │❖➛${prefix}neve (txt)
-│❖➛${prefix}narutobanner (txt)
 │❖➛${prefix}pornhub (txt) 
 │❖➛${prefix}space (txt)
 │❖➛${prefix}jokerlogo (txt)
@@ -256,7 +242,6 @@ return `
 │❖➛${prefix}lava (txt)
 │❖➛${prefix}luxury (txt)
 │❖➛${prefix}steel (txt)
-│❖➛${prefix}narutobanner (txt)
 │
 └──────────────
 │️「 INFO 」
