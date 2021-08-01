@@ -183,6 +183,9 @@ return `
 │「 LOGOS/CRIAR (TXT) 」
 │ 
 │❖➛${prefix}narutobanner (txt)
+│❖➛${prefix}bannergold (txt)
+│❖➛${prefix}lobometal (txt)
+│❖➛${prefix}metalgold (txt)
 │❖➛${prefix}shadow (txt)
 │❖➛${prefix}folha (txt)
 │❖➛${prefix}folha2 (txt)
